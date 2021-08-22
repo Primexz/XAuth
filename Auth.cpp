@@ -1,6 +1,6 @@
 #pragma once
-#include "HTTPRequest.hpp"
-#include "sha512.hh"
+#include "network/HTTPRequest.hpp"
+#include "network/sha512.hh"
 #include <string>
 #include <xstring>
 using std::string;
